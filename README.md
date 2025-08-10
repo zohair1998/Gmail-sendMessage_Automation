@@ -13,3 +13,5 @@ To use this code, there are soem prerequisites.
 Run the code by typing: python3 main.py
 
 
+This script helps you send clean, structured emails automatically using the Gmail API.
+I’m planning to add a GUI version with more features later if I get some good feedback.
